@@ -1,0 +1,13 @@
+html{
+  direction: rtl;
+  scroll-behavior: smooth;
+}
+.mainDiv{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  text-align: center;
+}

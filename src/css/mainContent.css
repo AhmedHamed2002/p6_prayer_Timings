@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Beiruti:wght@200..900&family=Fustat:wght@200..800&display=swap');
+
+.card{
+transition: 1.5s;
+    &:hover{
+    transform: scale(1.1);
+    }
+}
+
+select option:checked{
+    background-color:rgb(215, 208, 203);
+}
