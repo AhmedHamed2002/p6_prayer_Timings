@@ -38,12 +38,12 @@ The app uses the **AlAdhan API** to fetch real-time prayer timings and features 
 
  2. **Install dependencies**
 
-   npm install
+      npm install
 
 
  3. **Run the development server**
 
-   npm run dev
+      npm run dev
 
 
 
